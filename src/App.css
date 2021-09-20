@@ -108,11 +108,9 @@
   font-size: 45px;
   border-bottom: 2px dotted #fff;
 }
-.contact .btn-warning{
+.contact .destibtn{
   width: 50%;
   letter-spacing: 2px;
-  background: transparent;
-  transition: all 0.5s ease-in-out;
 }
 hr{
   width: 80%;
